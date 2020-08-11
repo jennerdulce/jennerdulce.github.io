@@ -1,16 +1,7 @@
-## Welcome to GitHub Pages
+## Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/jennerdulce/jennerdulce.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-**hello this is bold** _this is italic_
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+Having a growth mindset is a key element to becoming a successful programmer. 
+[Youtube](http://youtube.com)
 # Header 1
 ## Header 2
 ### Header 3
